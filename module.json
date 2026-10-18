@@ -2,7 +2,7 @@
   "id": "fvtt_mosh_1e_3rd_party_extras",
   "title": "Mothership 1e \u2014 3rd Party Extras",
   "description": "Third-party community content for Mothership 1e.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "compatibility": {
     "minimum": "11",
     "verified": "14"
@@ -33,6 +33,27 @@
       "name": "items_gear_spacefarer",
       "path": "packs/items_gear_spacefarer.db",
       "system": "mosh"
+    },
+    {
+      "label": "Disciples of a Cracked Skull",
+      "type": "RollTable",
+      "name": "rolltables_disciples_cracked_skull",
+      "path": "packs/rolltables_disciples_cracked_skull.db",
+      "system": "mosh"
+    },
+    {
+      "label": "Disciples of a Cracked Skull",
+      "type": "Item",
+      "name": "items_disciples_cracked_skull",
+      "path": "packs/items_disciples_cracked_skull.db",
+      "system": "mosh"
+    },
+    {
+      "label": "Disciples of a Cracked Skull",
+      "type": "JournalEntry",
+      "name": "journals_disciples_cracked_skull",
+      "path": "packs/journals_disciples_cracked_skull.db",
+      "system": "mosh"
     }
   ],
   "relationships": {
@@ -50,5 +71,5 @@
   },
   "url": "https://github.com/mechanoid23/fvtt_mosh_1e_3rd_party_extras",
   "manifest": "https://raw.githubusercontent.com/mechanoid23/fvtt_mosh_1e_3rd_party_extras/main/module.json",
-  "download": "https://github.com/mechanoid23/fvtt_mosh_1e_3rd_party_extras/releases/download/v0.1.1/fvtt_mosh_1e_3rd_party_extras.zip"
+  "download": "https://github.com/mechanoid23/fvtt_mosh_1e_3rd_party_extras/releases/download/v0.1.2/fvtt_mosh_1e_3rd_party_extras.zip"
 }
