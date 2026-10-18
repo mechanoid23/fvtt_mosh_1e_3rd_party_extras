@@ -1,8 +1,8 @@
 {
   "id": "fvtt_mosh_1e_3rd_party_extras",
-  "title": "Mothership 1e — 3rd Party Extras",
+  "title": "Mothership 1e \u2014 3rd Party Extras",
   "description": "Third-party community content for Mothership 1e.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "11",
     "verified": "14"
@@ -50,5 +50,5 @@
   },
   "url": "https://github.com/mechanoid23/fvtt_mosh_1e_3rd_party_extras",
   "manifest": "https://raw.githubusercontent.com/mechanoid23/fvtt_mosh_1e_3rd_party_extras/main/module.json",
-  "download": "https://github.com/mechanoid23/fvtt_mosh_1e_3rd_party_extras/releases/download/v0.1.0/fvtt_mosh_1e_3rd_party_extras.zip"
+  "download": "https://github.com/mechanoid23/fvtt_mosh_1e_3rd_party_extras/releases/download/v0.1.1/fvtt_mosh_1e_3rd_party_extras.zip"
 }
